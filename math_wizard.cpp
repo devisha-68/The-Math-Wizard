@@ -117,8 +117,8 @@ long double evaluate(string tokens)
 int main()
 {
 #ifndef ONLINE_JUDGE
-    freopen("TMW_small_mine.txt", "r", stdin);
-    freopen("output2.txt", "w", stdout);
+    freopen("TMW_input_small.txt", "r", stdin);
+    freopen("output_small.txt", "w", stdout);
 #endif
 
     int t;
